@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/karlislepark/kosa_study/issues"
   },
-  "homepage": "https://github.com/karlislepark/kosa_study#readme"
+  "homepage": "https://github.com/karlislepark/kosa_study#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
